@@ -1,0 +1,1354 @@
+{
+  "Chicken": {
+    "name": "Chicken",
+    "calories": "215.00",
+    "carbohydrates": 0,
+    "fat": "15.10",
+    "protein": "18.60",
+    "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+  },
+  "Chicken Breast": {
+    "name": "Chicken Breast",
+    "calories": "120.00",
+    "carbohydrates": 0,
+    "fat": "2.62",
+    "protein": "22.50",
+    "image": "https://www.edamam.com/food-img/da5/da510379d3650787338ca16fb69f4c94.jpg"
+  },
+  "Chicken Thigh": {
+    "name": "Chicken Thigh",
+    "calories": "221.00",
+    "carbohydrates": "0.25",
+    "fat": "16.60",
+    "protein": "16.50",
+    "image": "https://www.edamam.com/food-img/007/00792642367e1f55de680762f85cfb3b.jpg"
+  },
+  "Chicken Wings": {
+    "name": "Chicken Wing",
+    "calories": "191.00",
+    "carbohydrates": 0,
+    "fat": "12.80",
+    "protein": "17.50",
+    "image": "https://www.edamam.com/food-img/f92/f928682fc890edded472c5d8baeffed5.jpg"
+  },
+  "Ground Beef": {
+    "name": "Ground Beef",
+    "calories": "254.00",
+    "carbohydrates": 0,
+    "fat": "20.00",
+    "protein": "17.20",
+    "image": "https://www.edamam.com/food-img/cfa/cfae8f9276eaf8f0d9349ba662744a0c.jpg"
+  },
+  "Ribeye Steak": {
+    "name": "Ribeye Steak",
+    "calories": "253.00",
+    "carbohydrates": 0,
+    "fat": "20.00",
+    "protein": "18.40",
+    "image": "https://www.edamam.com/food-img/28f/28f2c7d960e01ff18685b6680ee5a150.jpg"
+  },
+  "Ribs": {
+    "name": "Rib",
+    "calories": "277.00",
+    "carbohydrates": 0,
+    "fat": "23.40",
+    "protein": "15.50",
+    "image": "https://www.edamam.com/food-img/e54/e548d7ddfea41f3ffa55cb712ae4e4a8.jpg"
+  },
+  "Brisket": {
+    "name": "Brisket",
+    "calories": "276.00",
+    "carbohydrates": 0,
+    "fat": "22.20",
+    "protein": "17.80",
+    "image": "https://www.edamam.com/food-img/e0d/e0dd59302a5bf4ff2d2e4797cdfe4160.jpg"
+  },
+  "Beef Tenderloin": {
+    "name": "Beef Tenderloin",
+    "calories": "246.00",
+    "carbohydrates": 0,
+    "fat": "17.90",
+    "protein": "19.80",
+    "image": "https://www.edamam.com/food-img/f70/f70890fe73fc9e333aa584a88a61e351.jpg"
+  },
+  "Flank Steak": {
+    "name": "Flank Steak",
+    "calories": "165.00",
+    "carbohydrates": 0,
+    "fat": "8.29",
+    "protein": "21.20",
+    "image": "https://www.edamam.com/food-img/f8d/f8dedaeb7292857a4d92019961fb91fb.jpg"
+  },
+  "Oxtail": {
+    "name": "Oxtail",
+    "calories": "224.00",
+    "carbohydrates": 0,
+    "fat": "15.40",
+    "protein": "19.80",
+    "image": null
+  },
+  "Veal Tenderloin": {
+    "name": "Veal Tenderloin",
+    "calories": "177.00",
+    "carbohydrates": "0.07",
+    "fat": "10.10",
+    "protein": "20.10",
+    "image": "https://www.edamam.com/food-img/48a/48ad7d17baf1ee143459b4ae80fb87fc.jpg"
+  },
+  "Pork": {
+    "name": "Pork",
+    "calories": "198.00",
+    "carbohydrates": 0,
+    "fat": "12.60",
+    "protein": "19.70",
+    "image": "https://www.edamam.com/food-img/d55/d553f23d42b9c8fb314416ccd5cde3d2.jpg"
+  },
+  "Pork Ribs": {
+    "name": "Pork Rib",
+    "calories": "277.00",
+    "carbohydrates": 0,
+    "fat": "23.40",
+    "protein": "15.50",
+    "image": "https://www.edamam.com/food-img/e54/e548d7ddfea41f3ffa55cb712ae4e4a8.jpg"
+  },
+  "Pork Tenderloin": {
+    "name": "Pork Tenderloin",
+    "calories": "120.00",
+    "carbohydrates": 0,
+    "fat": "3.53",
+    "protein": "20.60",
+    "image": "https://www.edamam.com/food-img/4df/4dfc18749ffa490e3d4daf9dd2ea4d34.jpg"
+  },
+  "Pork Chop": {
+    "name": "Pork Chop",
+    "calories": "170.00",
+    "carbohydrates": 0,
+    "fat": "9.03",
+    "protein": "20.70",
+    "image": "https://www.edamam.com/food-img/499/49977aabc381bd3889ad9100978e1bb6.jpg"
+  },
+  "Bacon": {
+    "name": "Bacon",
+    "calories": "393.00",
+    "carbohydrates": 0,
+    "fat": "37.10",
+    "protein": "13.70",
+    "image": "https://www.edamam.com/food-img/d42/d426884a125fa39a70d5a5d7217864ec.jpg"
+  },
+  "Ham": {
+    "name": "Ham",
+    "calories": "164.00",
+    "carbohydrates": "3.63",
+    "fat": "8.80",
+    "protein": "16.60",
+    "image": "https://www.edamam.com/food-img/a4b/a4ba02f547d69f0ab89ae266903f1e49.jpg"
+  },
+  "Chorizo": {
+    "name": "Chorizo",
+    "calories": "296.00",
+    "carbohydrates": "3.78",
+    "fat": "25.10",
+    "protein": "13.60",
+    "image": "https://www.edamam.com/food-img/c01/c0139ae7ad8a0334a23365b6284a5819.jpg"
+  },
+  "Sausage": {
+    "name": "Sausage",
+    "calories": "288.00",
+    "carbohydrates": "0.93",
+    "fat": "24.80",
+    "protein": "15.40",
+    "image": "https://www.edamam.com/food-img/2c7/2c73a127447b754a803e3804898a1afd.jpg"
+  },
+  "Lamb": {
+    "name": "Lamb",
+    "calories": "648.00",
+    "carbohydrates": 0,
+    "fat": "68.90",
+    "protein": "6.27",
+    "image": "https://www.edamam.com/food-img/212/21293e4eb386543620627f7df3078200.jpg"
+  },
+  "Lamb Leg": {
+    "name": "Lamb Leg",
+    "calories": "209.00",
+    "carbohydrates": 0,
+    "fat": "14.40",
+    "protein": "18.50",
+    "image": "https://www.edamam.com/food-img/dad/dad70281fdf22cdda2e2d55972190cdf.jpg"
+  },
+  "Lamb Ribs": {
+    "name": "Lamb Rib",
+    "calories": "372.00",
+    "carbohydrates": 0,
+    "fat": "34.40",
+    "protein": "14.50",
+    "image": "https://www.edamam.com/food-img/a90/a90c6b8376ae5feeaeeb3b81505a2089.jpg"
+  },
+  "Carrots": {
+    "name": "Carrots",
+    "calories": "41.00",
+    "carbohydrates": "9.58",
+    "fat": "0.24",
+    "protein": "0.93",
+    "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+  },
+  "Potato": {
+    "name": "Potato",
+    "calories": "77.00",
+    "carbohydrates": "17.50",
+    "fat": "0.09",
+    "protein": "2.05",
+    "image": "https://www.edamam.com/food-img/651/6512e82417bce15c2899630c1a2799df.jpg"
+  },
+  "Sweet Potato": {
+    "name": "Sweet Potato",
+    "calories": "86.00",
+    "carbohydrates": "20.10",
+    "fat": "0.05",
+    "protein": "1.57",
+    "image": "https://www.edamam.com/food-img/b66/b660e3d37b4ea9d58cb98e8ea73933b6.jpg"
+  },
+  "Onion": {
+    "name": "Onion",
+    "calories": "40.00",
+    "carbohydrates": "9.34",
+    "fat": "0.10",
+    "protein": "1.10",
+    "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+  },
+  "Green Onion": {
+    "name": "Green Onion",
+    "calories": "32.00",
+    "carbohydrates": "7.34",
+    "fat": "0.19",
+    "protein": "1.83",
+    "image": "https://www.edamam.com/food-img/b89/b89986ed6aa466285bdd99bac34b3c46.jpg"
+  },
+  "Garlic": {
+    "name": "Garlic",
+    "calories": "149.00",
+    "carbohydrates": "33.10",
+    "fat": "0.50",
+    "protein": "6.36",
+    "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+  },
+  "Tomato": {
+    "name": "Tomato",
+    "calories": "18.00",
+    "carbohydrates": "3.89",
+    "fat": "0.20",
+    "protein": "0.88",
+    "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+  },
+  "Bell Pepper": {
+    "name": "Bell Pepper",
+    "calories": "26.00",
+    "carbohydrates": "6.03",
+    "fat": "0.30",
+    "protein": "0.99",
+    "image": "https://www.edamam.com/food-img/4dc/4dc48b1a506d334b4ab6671b9d56a18f.jpeg"
+  },
+  "Eggplant": {
+    "name": "Eggplant",
+    "calories": "25.00",
+    "carbohydrates": "5.88",
+    "fat": "0.18",
+    "protein": "0.98",
+    "image": "https://www.edamam.com/food-img/da5/da5978d61b89a363147a6d13c36e3b54.jpg"
+  },
+  "Broccoli": {
+    "name": "Broccoli",
+    "calories": "34.00",
+    "carbohydrates": "6.64",
+    "fat": "0.37",
+    "protein": "2.82",
+    "image": "https://www.edamam.com/food-img/3e4/3e47317a3dd54dc911b9c44122285df1.jpg"
+  },
+  "Cauliflower": {
+    "name": "Cauliflower",
+    "calories": "25.00",
+    "carbohydrates": "4.97",
+    "fat": "0.28",
+    "protein": "1.92",
+    "image": "https://www.edamam.com/food-img/ca2/ca217d31067dffd35ce1215e7f336bd8.jpg"
+  },
+  "Spinach": {
+    "name": "Spinach",
+    "calories": "23.00",
+    "carbohydrates": "3.63",
+    "fat": "0.39",
+    "protein": "2.86",
+    "image": "https://www.edamam.com/food-img/e6e/e6e4be375c4554ce01c8ea75232efaa6.jpg"
+  },
+  "Lettuce": {
+    "name": "Lettuce",
+    "calories": "13.00",
+    "carbohydrates": "2.23",
+    "fat": "0.22",
+    "protein": "1.35",
+    "image": "https://www.edamam.com/food-img/719/71996625d0cb47e197093ecd52c97dc2.jpg"
+  },
+  "Cucumber": {
+    "name": "Cucumber",
+    "calories": "15.00",
+    "carbohydrates": "3.63",
+    "fat": "0.11",
+    "protein": "0.65",
+    "image": "https://www.edamam.com/food-img/501/5015da0e5fc2b384696b3d949aefef86.jpg"
+  },
+  "Asparagus": {
+    "name": "Asparagus",
+    "calories": "20.00",
+    "carbohydrates": "3.88",
+    "fat": "0.12",
+    "protein": "2.20",
+    "image": "https://www.edamam.com/food-img/159/159dec8bbcabf7ed641a57b40a2d2eb9.jpg"
+  },
+  "Mushroom": {
+    "name": "Mushroom",
+    "calories": "22.00",
+    "carbohydrates": "3.26",
+    "fat": "0.34",
+    "protein": "3.09",
+    "image": "https://www.edamam.com/food-img/d63/d639cf4a2afc7407c1d1ce286028136b.jpg"
+  },
+  "Celery": {
+    "name": "Celery",
+    "calories": "14.00",
+    "carbohydrates": "2.97",
+    "fat": "0.17",
+    "protein": "0.69",
+    "image": "https://www.edamam.com/food-img/d91/d91d2aed1c36d8fad54c4d7dc58f5a18.jpg"
+  },
+  "Radish": {
+    "name": "Radish",
+    "calories": "16.00",
+    "carbohydrates": "3.40",
+    "fat": "0.10",
+    "protein": "0.68",
+    "image": "https://www.edamam.com/food-img/ad7/ad78f4315cdba1dc26ccef0d7dba464b.jpg"
+  },
+  "Peas": {
+    "name": "Green Peas",
+    "calories": "81.00",
+    "carbohydrates": "14.40",
+    "fat": "0.40",
+    "protein": "5.42",
+    "image": "https://www.edamam.com/food-img/5ed/5ed641d646c028598a90bdb9ece34fc8.jpg"
+  },
+  "Corn": {
+    "name": "Corn",
+    "calories": "86.00",
+    "carbohydrates": "18.70",
+    "fat": "1.35",
+    "protein": "3.27",
+    "image": "https://www.edamam.com/food-img/eb5/eb5e11afb9f697720b2de2e0e0e27d8d.jpg"
+  },
+  "Apple": {
+    "name": "Apple",
+    "calories": "52.00",
+    "carbohydrates": "13.80",
+    "fat": "0.17",
+    "protein": "0.26",
+    "image": "https://www.edamam.com/food-img/42c/42c006401027d35add93113548eeaae6.jpg"
+  },
+  "Banana": {
+    "name": "Banana",
+    "calories": "89.00",
+    "carbohydrates": "22.80",
+    "fat": "0.33",
+    "protein": "1.09",
+    "image": "https://www.edamam.com/food-img/9f6/9f6181163a25c96022ee3fc66d9ebb11.jpg"
+  },
+  "Orange": {
+    "name": "Orange",
+    "calories": "47.00",
+    "carbohydrates": "11.80",
+    "fat": "0.12",
+    "protein": "0.94",
+    "image": "https://www.edamam.com/food-img/8ea/8ea264a802d6e643c1a340a77863c6ef.jpg"
+  },
+  "Strawberry": {
+    "name": "Strawberry",
+    "calories": "32.00",
+    "carbohydrates": "7.68",
+    "fat": "0.30",
+    "protein": "0.67",
+    "image": "https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg"
+  },
+  "Grapes": {
+    "name": "Grape",
+    "calories": "69.00",
+    "carbohydrates": "18.10",
+    "fat": "0.16",
+    "protein": "0.72",
+    "image": "https://www.edamam.com/food-img/ca5/ca55ac74deb991d159942c65777115df.jpg"
+  },
+  "Pineapple": {
+    "name": "Pineapple",
+    "calories": "50.00",
+    "carbohydrates": "13.10",
+    "fat": "0.12",
+    "protein": "0.54",
+    "image": "https://www.edamam.com/food-img/2da/2da6f2397ab64ed185c082edebc4dd7c.jpg"
+  },
+  "Mango": {
+    "name": "Mango",
+    "calories": "60.00",
+    "carbohydrates": "15.00",
+    "fat": "0.38",
+    "protein": "0.82",
+    "image": "https://www.edamam.com/food-img/6e0/6e04857756d0876f14bfc035ff238e0b.png"
+  },
+  "Pear": {
+    "name": "Pear",
+    "calories": "57.00",
+    "carbohydrates": "15.20",
+    "fat": "0.14",
+    "protein": "0.36",
+    "image": "https://www.edamam.com/food-img/65a/65aec51d264db28bbe27117c9fdaaca7.jpg"
+  },
+  "Melons": {
+    "name": "Melons",
+    "calories": "34.00",
+    "carbohydrates": "8.16",
+    "fat": "0.19",
+    "protein": "0.84",
+    "image": "https://www.edamam.com/food-img/b1b/b1b603c35a63d662e3359d4e55b31653.jpg"
+  },
+  "Watermelon": {
+    "name": "Watermelon",
+    "calories": "30.00",
+    "carbohydrates": "7.55",
+    "fat": "0.15",
+    "protein": "0.61",
+    "image": "https://www.edamam.com/food-img/e83/e83c09ce97ecd44e00b8c561ab682202.jpg"
+  },
+  "Kiwi": {
+    "name": "Kiwi",
+    "calories": "61.00",
+    "carbohydrates": "14.70",
+    "fat": "0.52",
+    "protein": "1.14",
+    "image": "https://www.edamam.com/food-img/dba/dbabbf58b6a43c9b65014f4c789d4409.jpg"
+  },
+  "Peach": {
+    "name": "Peach",
+    "calories": "39.00",
+    "carbohydrates": "9.54",
+    "fat": "0.25",
+    "protein": "0.91",
+    "image": "https://www.edamam.com/food-img/437/4378245cfab2121c9e6eb9e3c3dc9ac8.jpg"
+  },
+  "Cherry": {
+    "name": "Cherry",
+    "calories": "63.00",
+    "carbohydrates": "16.00",
+    "fat": "0.20",
+    "protein": "1.06",
+    "image": "https://www.edamam.com/food-img/34b/34b23d901752b022d6ab1ee6f9ed0b74.jpg"
+  },
+  "Lemon": {
+    "name": "Lemon",
+    "calories": "29.00",
+    "carbohydrates": "9.32",
+    "fat": "0.30",
+    "protein": "1.10",
+    "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+  },
+  "Mandarins": {
+    "name": "Mandarins",
+    "calories": "53.00",
+    "carbohydrates": "13.30",
+    "fat": "0.31",
+    "protein": "0.81",
+    "image": "https://www.edamam.com/food-img/f82/f82193abe21e23c1562bb5340f74e336.jpg"
+  },
+  "Papaya": {
+    "name": "Papaya",
+    "calories": "43.00",
+    "carbohydrates": "10.80",
+    "fat": "0.26",
+    "protein": "0.47",
+    "image": "https://www.edamam.com/food-img/ceb/ceb26874332d3523d92d79d44fa836ca.jpg"
+  },
+  "Plum": {
+    "name": "Plum",
+    "calories": "46.00",
+    "carbohydrates": "11.40",
+    "fat": "0.28",
+    "protein": "0.70",
+    "image": "https://www.edamam.com/food-img/171/171e0c6dd5bc1090a0f574722f3c09b6.jpg"
+  },
+  "Figs": {
+    "name": "Figs",
+    "calories": "74.00",
+    "carbohydrates": "19.20",
+    "fat": "0.30",
+    "protein": "0.75",
+    "image": "https://www.edamam.com/food-img/3ce/3ce7b15338ac4ecb9a043df83ea6f9d4.jpg"
+  },
+  "Coconut": {
+    "name": "Coconut",
+    "calories": "354.00",
+    "carbohydrates": "15.20",
+    "fat": "33.50",
+    "protein": "3.33",
+    "image": "https://www.edamam.com/food-img/a27/a27851affdcc1da2d94da0a4fbe3b062.jpg"
+  },
+  "Wheat Flour": {
+    "name": "Wheat Flour",
+    "calories": "364.00",
+    "carbohydrates": "76.30",
+    "fat": "0.98",
+    "protein": "10.30",
+    "image": "https://www.edamam.com/food-img/368/368077bbcab62f862a8c766a56ea5dd1.jpg"
+  },
+  "Corn Flour": {
+    "name": "Corn Flour",
+    "calories": "363.00",
+    "carbohydrates": "76.60",
+    "fat": "3.69",
+    "protein": "8.46",
+    "image": "https://www.edamam.com/food-img/95a/95a2e8b91ba3a3c42c36ae1a541782e8.jpg"
+  },
+  "Oat Flour": {
+    "name": "Oat Flour",
+    "calories": "404.00",
+    "carbohydrates": "65.70",
+    "fat": "9.12",
+    "protein": "14.70",
+    "image": "https://www.edamam.com/food-img/dcf/dcf53f9c8f24c6d7eb22fae5e1a61f6a.jpg"
+  },
+  "Whole Wheat Flour": {
+    "name": "Whole Wheat Flour",
+    "calories": "340.00",
+    "carbohydrates": "72.00",
+    "fat": "2.50",
+    "protein": "13.20",
+    "image": "https://www.edamam.com/food-img/f46/f46a64137365c10237522be5980f769c.jpg"
+  },
+  "Rice Flour": {
+    "name": "Rice Flour",
+    "calories": "366.00",
+    "carbohydrates": "80.10",
+    "fat": "1.42",
+    "protein": "5.95",
+    "image": "https://www.edamam.com/food-img/252/25233e59c8548d747b232000e7c3f939.jpg"
+  },
+  "Green Lentils": {
+    "name": "Green Lentils",
+    "calories": "352.00",
+    "carbohydrates": "63.40",
+    "fat": "1.06",
+    "protein": "24.60",
+    "image": "https://www.edamam.com/food-img/d5a/d5aa5bc5a3142f3179f31310054a56e6.jpg"
+  },
+  "Chickpeas": {
+    "name": "Chickpea",
+    "calories": "378.00",
+    "carbohydrates": "63.00",
+    "fat": "6.04",
+    "protein": "20.50",
+    "image": "https://www.edamam.com/food-img/520/520c62055515f730b8947e0e445fd2be.jpg"
+  },
+  "Black Beans": {
+    "name": "Tri-Color Beans Kidney Beans, Pinto Beans, Black Beans",
+    "calories": "77.00",
+    "carbohydrates": "14.62",
+    "fat": 0,
+    "protein": "5.38",
+    "image": null
+  },
+  "Red Beans": {
+    "name": "Red Bean",
+    "calories": "333.00",
+    "carbohydrates": "60.00",
+    "fat": "0.83",
+    "protein": "23.60",
+    "image": "https://www.edamam.com/food-img/b38/b38474ab11c81e155df0ef5b7120bc27.jpg"
+  },
+  "Soybeans": {
+    "name": "Soybean",
+    "calories": "109.00",
+    "carbohydrates": "7.61",
+    "fat": "4.73",
+    "protein": "11.20",
+    "image": "https://www.edamam.com/food-img/325/325e012901331f9860df07f755adf197.jpg"
+  },
+  "Peanuts": {
+    "name": "Peanut",
+    "calories": "567.00",
+    "carbohydrates": "16.10",
+    "fat": "49.20",
+    "protein": "25.80",
+    "image": "https://www.edamam.com/food-img/6f4/6f41e31c53bb58cc1b7331d0764963f7.jpg"
+  },
+  "Almonds": {
+    "name": "Almond",
+    "calories": "579.00",
+    "carbohydrates": "21.60",
+    "fat": "49.90",
+    "protein": "21.20",
+    "image": "https://www.edamam.com/food-img/6c2/6c2dc21adf11afc4c8d390ee2f651e56.jpg"
+  },
+  "Hazelnuts": {
+    "name": "Hazelnut",
+    "calories": "628.00",
+    "carbohydrates": "16.70",
+    "fat": "60.80",
+    "protein": "15.00",
+    "image": "https://www.edamam.com/food-img/136/13615074edcc12bf37a30987ebfec6dc.jpg"
+  },
+  "Pistachios": {
+    "name": "Pistachio",
+    "calories": "560.00",
+    "carbohydrates": "27.20",
+    "fat": "45.30",
+    "protein": "20.20",
+    "image": "https://www.edamam.com/food-img/1ed/1eda10468a9c3df61f8208fe156e832d.jpg"
+  },
+  "Pecans": {
+    "name": "Pecan",
+    "calories": "691.00",
+    "carbohydrates": "13.90",
+    "fat": "72.00",
+    "protein": "9.17",
+    "image": "https://www.edamam.com/food-img/42f/42ff4c36d4d0b4e8069604c97af1cfef.jpg"
+  },
+  "Chestnuts": {
+    "name": "Chestnut",
+    "calories": "196.00",
+    "carbohydrates": "44.20",
+    "fat": "1.25",
+    "protein": "1.63",
+    "image": "https://www.edamam.com/food-img/c50/c504cfb40bafb475c594efe93bfe9bf4.jpg"
+  },
+  "Sunflower Seeds": {
+    "name": "Sunflower Seed",
+    "calories": "584.00",
+    "carbohydrates": "20.00",
+    "fat": "51.50",
+    "protein": "20.80",
+    "image": "https://www.edamam.com/food-img/c03/c035107b6716331396e91f7c2c0f2a04.jpg"
+  },
+  "Salmon": {
+    "name": "Salmon",
+    "calories": "208.00",
+    "carbohydrates": 0,
+    "fat": "13.40",
+    "protein": "20.40",
+    "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+  },
+  "Tuna": {
+    "name": "Tuna",
+    "calories": "109.00",
+    "carbohydrates": 0,
+    "fat": "0.49",
+    "protein": "24.40",
+    "image": "https://www.edamam.com/food-img/022/022db6571bd5b3dfbd3ef8941c775d12.jpg"
+  },
+  "Canned Tuna": {
+    "name": "Tuna",
+    "calories": "109.00",
+    "carbohydrates": 0,
+    "fat": "0.49",
+    "protein": "24.40",
+    "image": "https://www.edamam.com/food-img/022/022db6571bd5b3dfbd3ef8941c775d12.jpg"
+  },
+  "Sardines": {
+    "name": "Sardine",
+    "calories": "131.00",
+    "carbohydrates": 0,
+    "fat": "4.84",
+    "protein": "20.40",
+    "image": "https://www.edamam.com/food-img/4e6/4e625d8f230469ed1cb2367bcca77fc8.jpg"
+  },
+  "Trout": {
+    "name": "Trout",
+    "calories": "141.00",
+    "carbohydrates": 0,
+    "fat": "6.18",
+    "protein": "19.90",
+    "image": "https://www.edamam.com/food-img/edc/edcf7d7c8b01a92c4e219e6a80707870.png"
+  },
+  "Hake": {
+    "name": "Hake",
+    "calories": "82.00",
+    "carbohydrates": 0,
+    "fat": "0.67",
+    "protein": "17.80",
+    "image": "https://www.edamam.com/food-img/d58/d58d0ccfc3a15f1dfb7877f17a068d4d.jpg"
+  },
+  "Shrimp": {
+    "name": "Taisho Shrimp",
+    "calories": "71.00",
+    "carbohydrates": "0.91",
+    "fat": "1.01",
+    "protein": "13.60",
+    "image": "https://www.edamam.com/food-img/ebe/ebe2888b894f48d19762e1d606db0206.jpg"
+  },
+  "Prawns": {
+    "name": "Prawn",
+    "calories": "71.00",
+    "carbohydrates": "0.91",
+    "fat": "1.01",
+    "protein": "13.60",
+    "image": "https://www.edamam.com/food-img/ebe/ebe2888b894f48d19762e1d606db0206.jpg"
+  },
+  "Mussels": {
+    "name": "Mussels",
+    "calories": "86.00",
+    "carbohydrates": "3.69",
+    "fat": "2.24",
+    "protein": "11.90",
+    "image": "https://www.edamam.com/food-img/8de/8de89f5f0c1602d847b4034fb1168d10.jpg"
+  },
+  "Clams": {
+    "name": "Clam",
+    "calories": "86.00",
+    "carbohydrates": "3.57",
+    "fat": "0.96",
+    "protein": "14.70",
+    "image": "https://www.edamam.com/food-img/cdb/cdb6d4a1acc0b81c643ba1a52c5cd95b.jpg"
+  },
+  "Oysters": {
+    "name": "Oyster",
+    "calories": "81.00",
+    "carbohydrates": "4.95",
+    "fat": "2.30",
+    "protein": "9.45",
+    "image": "https://www.edamam.com/food-img/09f/09f96476bd4f0af31803dfbf15049f94.jpg"
+  },
+  "Octopus": {
+    "name": "Octopus",
+    "calories": "82.00",
+    "carbohydrates": "2.20",
+    "fat": "1.04",
+    "protein": "14.90",
+    "image": "https://www.edamam.com/food-img/e2b/e2b278b26595422dd8fe09a058e7e0b2.jpg"
+  },
+  "Squid": {
+    "name": "Squid",
+    "calories": "92.00",
+    "carbohydrates": "3.08",
+    "fat": "1.38",
+    "protein": "15.60",
+    "image": "https://www.edamam.com/food-img/45e/45e595bde976f5037269e69f1fb16745.jpg"
+  },
+  "Lobster": {
+    "name": "Lobster",
+    "calories": "77.00",
+    "carbohydrates": 0,
+    "fat": "0.75",
+    "protein": "16.50",
+    "image": "https://www.edamam.com/food-img/54f/54fe5ffb9f4ce2d4219459f5dc65be75.jpg"
+  },
+  "Crab": {
+    "name": "Crab",
+    "calories": "87.00",
+    "carbohydrates": "0.04",
+    "fat": "1.08",
+    "protein": "18.10",
+    "image": "https://www.edamam.com/food-img/448/4480300b78e0e169a0656f1d22099109.png"
+  },
+  "Mackerel": {
+    "name": "MacKerel",
+    "calories": "205.00",
+    "carbohydrates": 0,
+    "fat": "13.90",
+    "protein": "18.60",
+    "image": "https://www.edamam.com/food-img/f80/f803095970a3f5c5a8d4ea45ade6908a.jpg"
+  },
+  "Anchovies": {
+    "name": "Anchovy",
+    "calories": "210.00",
+    "carbohydrates": 0,
+    "fat": "9.71",
+    "protein": "28.90",
+    "image": "https://www.edamam.com/food-img/903/903f0e875a690dce724b7f4b6f09f931.jpg"
+  },
+  "Milk": {
+    "name": "Milk",
+    "calories": "61.00",
+    "carbohydrates": "4.80",
+    "fat": "3.25",
+    "protein": "3.15",
+    "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+  },
+  "Yogurt": {
+    "name": "Yogurt",
+    "calories": "61.00",
+    "carbohydrates": "4.66",
+    "fat": "3.25",
+    "protein": "3.47",
+    "image": "https://www.edamam.com/food-img/933/933eb3791b3a2175e007f1607d56b7e2.jpg"
+  },
+  "Butter": {
+    "name": "Butter",
+    "calories": "717.00",
+    "carbohydrates": "0.06",
+    "fat": "81.10",
+    "protein": "0.85",
+    "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+  },
+  "Cream": {
+    "name": "Cream",
+    "calories": "340.00",
+    "carbohydrates": "2.84",
+    "fat": "36.10",
+    "protein": "2.84",
+    "image": "https://www.edamam.com/food-img/484/4848d71f6a14dd5076083f5e17925420.jpg"
+  },
+  "Cheddar Cheese": {
+    "name": "Cheddar Cheese",
+    "calories": "403.00",
+    "carbohydrates": "3.37",
+    "fat": "33.30",
+    "protein": "22.90",
+    "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+  },
+  "Mozzarella Cheese": {
+    "name": "Mozzarella Cheese",
+    "calories": "318.00",
+    "carbohydrates": "2.47",
+    "fat": "24.60",
+    "protein": "21.60",
+    "image": "https://www.edamam.com/food-img/92d/92d92d4a4dfe8c025cea407c9ce764c3.jpg"
+  },
+  "Parmesan Cheese": {
+    "name": "Parmesan Cheese",
+    "calories": "392.00",
+    "carbohydrates": "3.22",
+    "fat": "25.00",
+    "protein": "35.80",
+    "image": "https://www.edamam.com/food-img/f58/f588658627c59d5041e4664119829aa9.jpg"
+  },
+  "Brie Cheese": {
+    "name": "Brie Cheese",
+    "calories": "334.00",
+    "carbohydrates": "0.45",
+    "fat": "27.70",
+    "protein": "20.80",
+    "image": "https://www.edamam.com/food-img/f53/f5340600239cf508f17b167265c6a1cf.jpg"
+  },
+  "Blue Cheese": {
+    "name": "Blue Cheese",
+    "calories": "353.00",
+    "carbohydrates": "2.34",
+    "fat": "28.70",
+    "protein": "21.40",
+    "image": "https://www.edamam.com/food-img/b44/b442cfc174a1a691dca574c9b7dcb47a.jpg"
+  },
+  "Feta Cheese": {
+    "name": "Feta Cheese",
+    "calories": "265.00",
+    "carbohydrates": "3.88",
+    "fat": "21.50",
+    "protein": "14.20",
+    "image": "https://www.edamam.com/food-img/37e/37ef3e404b1c02bf4707cb82010732b8.jpg"
+  },
+  "Ricotta Cheese": {
+    "name": "Ricotta Cheese",
+    "calories": "150.00",
+    "carbohydrates": "7.27",
+    "fat": "10.20",
+    "protein": "7.54",
+    "image": "https://www.edamam.com/food-img/fc4/fc42636b63848462aea5f5930c2b6268.jpg"
+  },
+  "Tybo Cheese": {
+    "name": "Cheese",
+    "calories": "403.00",
+    "carbohydrates": "3.37",
+    "fat": "33.30",
+    "protein": "22.90",
+    "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+  },
+  "Burrata": {
+    "name": "Burrata",
+    "calories": "299.00",
+    "carbohydrates": "2.40",
+    "fat": "22.10",
+    "protein": "22.20",
+    "image": "https://www.edamam.com/food-img/03e/03ec3a4d46bec5634dc8a352804e4e68.jpg"
+  },
+  "Salami": {
+    "name": "Salami",
+    "calories": "378.00",
+    "carbohydrates": "0.72",
+    "fat": "31.60",
+    "protein": "21.10",
+    "image": "https://www.edamam.com/food-img/b1e/b1e1be598ceb08d50d9c1f5d49b49f6a.jpg"
+  },
+  "Pepperoni": {
+    "name": "Pepperoni",
+    "calories": "504.00",
+    "carbohydrates": "1.18",
+    "fat": "46.30",
+    "protein": "19.20",
+    "image": "https://www.edamam.com/food-img/10b/10b28aa71cbe520aef944186f2b365b9.jpg"
+  },
+  "Prosciutto": {
+    "name": "Prosciutto",
+    "calories": "195.00",
+    "carbohydrates": "0.30",
+    "fat": "8.32",
+    "protein": "27.80",
+    "image": "https://www.edamam.com/food-img/802/8029e7b80cce92694182b85a1ebd1822.jpg"
+  },
+  "Dark Chocolate": {
+    "name": "Dark Chocolate",
+    "calories": "598.00",
+    "carbohydrates": "45.90",
+    "fat": "42.60",
+    "protein": "7.79",
+    "image": "https://www.edamam.com/food-img/3cf/3cf0e13350f43392dc13c07d27ad145d.jpg"
+  },
+  "Milk Chocolate": {
+    "name": "Milk Chocolate",
+    "calories": "535.00",
+    "carbohydrates": "59.40",
+    "fat": "29.70",
+    "protein": "7.65",
+    "image": "https://www.edamam.com/food-img/818/8181456202f62ca321fdaf8513ce3282.jpg"
+  },
+  "White Chocolate": {
+    "name": "Chocolate Candies, Dark Chocolate & White Chocolate",
+    "calories": "500.00",
+    "carbohydrates": "71.43",
+    "fat": "23.81",
+    "protein": "4.76",
+    "image": null
+  },
+  "Strawberry Jam": {
+    "name": "Strawberry Jam",
+    "calories": "278.00",
+    "carbohydrates": "68.90",
+    "fat": "0.07",
+    "protein": "0.37",
+    "image": "https://www.edamam.com/food-img/42b/42ba8bb2c0e13f6e69b3af18f0f641ae.jpg"
+  },
+  "White Sugar": {
+    "name": "White Frosted Sugar Cookies, Frosted Sugar",
+    "calories": "419.00",
+    "carbohydrates": "67.44",
+    "fat": "16.28",
+    "protein": "2.33",
+    "image": "https://www.edamam.com/food-img/f13/f136a805edfd808c932122c0daf2ad08.jpg"
+  },
+  "Gelatin": {
+    "name": "Gelatin",
+    "calories": "335.00",
+    "carbohydrates": 0,
+    "fat": "0.10",
+    "protein": "85.60",
+    "image": "https://www.edamam.com/food-img/47a/47a5b5c20c3cbfaf7332d572a5bfddbe.jpg"
+  },
+  "Nougat": {
+    "name": "Salted Vanilla Nougat, Golden Caramel, and Roasted Peanuts Nut Roll, Salted",
+    "calories": "467.00",
+    "carbohydrates": "62.22",
+    "fat": "20.00",
+    "protein": "11.11",
+    "image": null
+  },
+  "Balsamic Vinegar": {
+    "name": "Balsamic Vinegar",
+    "calories": "88.00",
+    "carbohydrates": "17.00",
+    "fat": 0,
+    "protein": "0.49",
+    "image": "https://www.edamam.com/food-img/90a/90a1f211768e166ecfff19e8b4747498.jpg"
+  },
+  "Mustard": {
+    "name": "Mustard",
+    "calories": "60.00",
+    "carbohydrates": "5.83",
+    "fat": "3.34",
+    "protein": "3.74",
+    "image": "https://www.edamam.com/food-img/e23/e238f2e4cfa6aa1a30f46dc73e7344eb.jpg"
+  },
+  "Barbecue Sauce": {
+    "name": "Barbecue Sauce",
+    "calories": "172.00",
+    "carbohydrates": "40.80",
+    "fat": "0.63",
+    "protein": "0.82",
+    "image": "https://www.edamam.com/food-img/7e3/7e303aa2cbb51e4bd70f71bf5cb4a754.jpg"
+  },
+  "Worcestershire Sauce": {
+    "name": "Worcestershire Sauce",
+    "calories": "77.00",
+    "carbohydrates": "19.20",
+    "fat": 0,
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/072/072b61dd1ad5bb641f05b14f716ba6d0.jpg"
+  },
+  "Oregano": {
+    "name": "Oregano",
+    "calories": "265.00",
+    "carbohydrates": "68.90",
+    "fat": "4.28",
+    "protein": "9.00",
+    "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+  },
+  "Cilantro": {
+    "name": "Cilantro",
+    "calories": "23.00",
+    "carbohydrates": "3.67",
+    "fat": "0.52",
+    "protein": "2.13",
+    "image": "https://www.edamam.com/food-img/d57/d57e375b6ff99a90c7ee2b1990a1af36.jpg"
+  },
+  "Rosemary": {
+    "name": "Rosemary",
+    "calories": "131.00",
+    "carbohydrates": "20.70",
+    "fat": "5.86",
+    "protein": "3.31",
+    "image": "https://www.edamam.com/food-img/0ac/0ac8f7cf6f2d0ad7b1a2f9900fae44f3.jpg"
+  },
+  "Black Pepper": {
+    "name": "Black Pepper Sauce, Black Pepper",
+    "calories": "83.00",
+    "carbohydrates": "13.33",
+    "fat": "5.00",
+    "protein": 0,
+    "image": null
+  },
+  "Saffron": {
+    "name": "Saffron",
+    "calories": "310.00",
+    "carbohydrates": "65.40",
+    "fat": "5.85",
+    "protein": "11.40",
+    "image": "https://www.edamam.com/food-img/b7c/b7c71604d7d5e7f54ac461079e6fe175.jpg"
+  },
+  "Curry": {
+    "name": "Curry",
+    "calories": "325.00",
+    "carbohydrates": "55.80",
+    "fat": "14.00",
+    "protein": "14.30",
+    "image": "https://www.edamam.com/food-img/9ce/9ce02a2887385fd2adaec8dd8adcf9c5.jpg"
+  },
+  "Soy Sauce": {
+    "name": "Soy Sauce",
+    "calories": "53.00",
+    "carbohydrates": "4.93",
+    "fat": "0.57",
+    "protein": "8.14",
+    "image": "https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg"
+  },
+  "Whole Wheat Bread": {
+    "name": "Whole Wheat Bread",
+    "calories": "252.00",
+    "carbohydrates": "42.70",
+    "fat": "3.50",
+    "protein": "12.40",
+    "image": "https://www.edamam.com/food-img/83a/83a9f144371e7967bdaa4ee50cdb4eaa.jpg"
+  },
+  "Black Bread": {
+    "name": "Bread",
+    "calories": "274.00",
+    "carbohydrates": "47.50",
+    "fat": "4.53",
+    "protein": "10.70",
+    "image": "https://www.edamam.com/food-img/886/886960f6ce6ccec5b9163bacf2996853.jpg"
+  },
+  "Mortadella": {
+    "name": "Mortadella",
+    "calories": "311.00",
+    "carbohydrates": "3.05",
+    "fat": "25.40",
+    "protein": "16.40",
+    "image": "https://www.edamam.com/food-img/6f7/6f77f6684bd11be1b240aea4f016e54a.jpg"
+  },
+  "Sweetbreads": {
+    "name": "Sweetbread",
+    "calories": "236.00",
+    "carbohydrates": 0,
+    "fat": "20.40",
+    "protein": "12.20",
+    "image": "https://www.edamam.com/food-img/309/3092f621e33768406777b178fb3ac9a7.jpg"
+  },
+  "Blood Sausage": {
+    "name": "Blood Sausage",
+    "calories": "379.00",
+    "carbohydrates": "1.29",
+    "fat": "34.50",
+    "protein": "14.60",
+    "image": "https://www.edamam.com/food-img/ec9/ec997418be4fcde1b20d76042cde646d.jpg"
+  },
+  "Guanciale": {
+    "name": "Guanciale",
+    "calories": "393.00",
+    "carbohydrates": 0,
+    "fat": "37.10",
+    "protein": "13.70",
+    "image": "https://www.edamam.com/food-img/d42/d426884a125fa39a70d5a5d7217864ec.jpg"
+  },
+  "Unsweetened Cocoa Powder": {
+    "name": "Unsweetened Cocoa Powder",
+    "calories": "228.00",
+    "carbohydrates": "57.90",
+    "fat": "13.70",
+    "protein": "19.60",
+    "image": "https://www.edamam.com/food-img/89a/89af89595db3cf2c3007f2b064c5fef6.jpg"
+  },
+  "Dulce de Leche": {
+    "name": "Dulce de Leche",
+    "calories": "315.00",
+    "carbohydrates": "55.40",
+    "fat": "7.35",
+    "protein": "6.84",
+    "image": "https://www.edamam.com/food-img/c37/c37810c27f826685d463d9395f448851.jpg"
+  },
+  "Orange Blossom Honey": {
+    "name": "Orange Blossom Honey",
+    "calories": "304.00",
+    "carbohydrates": "82.40",
+    "fat": 0,
+    "protein": "0.30",
+    "image": "https://www.edamam.com/food-img/198/198c7b25c23b4235b4cc33818c7b335f.jpg"
+  },
+  "Jam": {
+    "name": "Jam",
+    "calories": "278.00",
+    "carbohydrates": "68.90",
+    "fat": "0.07",
+    "protein": "0.37",
+    "image": "https://www.edamam.com/food-img/42b/42ba8bb2c0e13f6e69b3af18f0f641ae.jpg"
+  },
+  "Brown Sugar": {
+    "name": "Brown Sugar Ham, Brown Sugar",
+    "calories": "125.00",
+    "carbohydrates": "8.93",
+    "fat": "2.68",
+    "protein": "17.86",
+    "image": "https://www.edamam.com/food-img/f9c/f9c1bad3f11827f236078350a94e6da0.jpg"
+  },
+  "Candy": {
+    "name": "Candies",
+    "calories": "480.00",
+    "carbohydrates": "63.90",
+    "fat": "30.00",
+    "protein": "4.20",
+    "image": "https://www.edamam.com/food-img/0a1/0a1b6f30cb99e1842cac6167f6f424d7.jpg"
+  },
+  "Marshmallows": {
+    "name": "Marshmallow",
+    "calories": "318.00",
+    "carbohydrates": "81.30",
+    "fat": "0.20",
+    "protein": "1.80",
+    "image": "https://www.edamam.com/food-img/9c8/9c86a95af817e527adebbf8781aa7c4f.jpg"
+  },
+  "Cookies": {
+    "name": "Cookies",
+    "calories": "423.00",
+    "carbohydrates": "65.86",
+    "fat": "22.08",
+    "protein": "5.25",
+    "image": "https://www.edamam.com/food-img/c49/c49cbd80f3156ae1b2a7d0a5f23a4a00.jpg"
+  },
+  "Marzipan": {
+    "name": "Marzipan",
+    "calories": "458.00",
+    "carbohydrates": "47.80",
+    "fat": "27.70",
+    "protein": "9.00",
+    "image": "https://www.edamam.com/food-img/e03/e03f6b7a81c44a9a829653a01c00ea83.jpg"
+  },
+  "Apple Cider Vinegar": {
+    "name": "Apple Cider Vinegar",
+    "calories": "21.00",
+    "carbohydrates": "0.93",
+    "fat": 0,
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/c7d/c7dbd1846c5d08e9739930d70a404d50.jpg"
+  },
+  "Mayonnaise": {
+    "name": "Mayonnaise",
+    "calories": "692.00",
+    "carbohydrates": 0,
+    "fat": "77.00",
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+  },
+  "Ketchup": {
+    "name": "Ketchup",
+    "calories": "101.00",
+    "carbohydrates": "27.40",
+    "fat": "0.10",
+    "protein": "1.04",
+    "image": "https://www.edamam.com/food-img/257/257207c446011b849001ae596390341c.jpeg"
+  },
+  "Tabasco": {
+    "name": "Tabasco",
+    "calories": "12.00",
+    "carbohydrates": "0.80",
+    "fat": "0.76",
+    "protein": "1.29",
+    "image": "https://www.edamam.com/food-img/240/24061557b395943062ee4f50ef0d3c2f.jpg"
+  },
+  "Basil": {
+    "name": "Basil",
+    "calories": "23.00",
+    "carbohydrates": "2.65",
+    "fat": "0.64",
+    "protein": "3.15",
+    "image": "https://www.edamam.com/food-img/5f1/5f1b05685ac2b404236a5d1c1f3c8c10.jpg"
+  },
+  "Parsley": {
+    "name": "Parsley",
+    "calories": "36.00",
+    "carbohydrates": "6.33",
+    "fat": "0.79",
+    "protein": "2.97",
+    "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+  },
+  "Thyme": {
+    "name": "Thyme",
+    "calories": "101.00",
+    "carbohydrates": "24.40",
+    "fat": "1.68",
+    "protein": "5.56",
+    "image": "https://www.edamam.com/food-img/3e7/3e7cf3c8d767a90b906447f5e74059f7.jpg"
+  },
+  "Salt": {
+    "name": "Salt",
+    "calories": 0,
+    "carbohydrates": 0,
+    "fat": 0,
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+  },
+  "Cinnamon": {
+    "name": "Cinnamon",
+    "calories": "247.00",
+    "carbohydrates": "80.60",
+    "fat": "1.24",
+    "protein": "3.99",
+    "image": "https://www.edamam.com/food-img/d4d/d4daa18b92c596a1c99c08537c38e65b.jpg"
+  },
+  "Nutmeg": {
+    "name": "Nutmeg",
+    "calories": "525.00",
+    "carbohydrates": "49.30",
+    "fat": "36.30",
+    "protein": "5.84",
+    "image": "https://www.edamam.com/food-img/b9e/b9e54f78ae18cf99a6504b472ba25e7b.jpg"
+  },
+  "Olive Oil": {
+    "name": "Olive Oil",
+    "calories": "884.00",
+    "carbohydrates": 0,
+    "fat": "100.00",
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+  },
+  "Sunflower Oil": {
+    "name": "Sunflower Oil & Grapeseed Oil",
+    "calories": "800.00",
+    "carbohydrates": 0,
+    "fat": "93.33",
+    "protein": 0,
+    "image": null
+  },
+  "Grapeseed Oil": {
+    "name": "Grapeseed Oil",
+    "calories": "884.00",
+    "carbohydrates": 0,
+    "fat": "100.00",
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/88b/88bb3399c7bf214d2bce6bd86780eaf2.jpg"
+  },
+  "Coconut Oil": {
+    "name": "Coconut Oil",
+    "calories": "892.00",
+    "carbohydrates": 0,
+    "fat": "99.10",
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/3c9/3c97284c57e76e16093d51572b558be8.jpg"
+  },
+  "Corn Oil": {
+    "name": "Corn Oil",
+    "calories": "900.00",
+    "carbohydrates": 0,
+    "fat": "100.00",
+    "protein": 0,
+    "image": "https://www.edamam.com/food-img/cd4/cd4ea698cb19a1eb94569a09121dbbd2.jpg"
+  },
+  "Rice": {
+    "name": "Rice",
+    "calories": "360.00",
+    "carbohydrates": "79.30",
+    "fat": "0.58",
+    "protein": "6.61",
+    "image": "https://www.edamam.com/food-img/0fc/0fc9fa8a3e0276198d75b2e259068f8a.jpg"
+  },
+  "Baguette": {
+    "name": "Baguette",
+    "calories": "272.00",
+    "carbohydrates": "51.90",
+    "fat": "2.42",
+    "protein": "10.80",
+    "image": "https://www.edamam.com/food-img/470/47053c77e167539c64fef3f2a3249bb2.jpg"
+  },
+  "White Bread": {
+    "name": "Bread White Bread",
+    "calories": "271.61",
+    "carbohydrates": "50.44",
+    "fat": "3.88",
+    "protein": "11.64",
+    "image": null
+  },
+  "Bread": {
+    "name": "Bread",
+    "calories": "274.00",
+    "carbohydrates": "47.50",
+    "fat": "4.53",
+    "protein": "10.70",
+    "image": "https://www.edamam.com/food-img/886/886960f6ce6ccec5b9163bacf2996853.jpg"
+  },
+  "Pita Bread": {
+    "name": "Pita Bread",
+    "calories": "262.00",
+    "carbohydrates": "55.90",
+    "fat": "1.71",
+    "protein": "9.80",
+    "image": "https://www.edamam.com/food-img/b8c/b8c2794a59279b7e0553c27e0769fbaf.jpg"
+  },
+  "Hamburger Bun": {
+    "name": "Hamburger Bun",
+    "calories": "279.00",
+    "carbohydrates": "50.10",
+    "fat": "3.91",
+    "protein": "9.77",
+    "image": "https://www.edamam.com/food-img/dbe/dbe3d135d1336ed19703d359e33d58dd.jpg"
+  },
+  "Wine": {
+    "name": "Wine",
+    "calories": "83.00",
+    "carbohydrates": "2.72",
+    "fat": 0,
+    "protein": "0.07",
+    "image": "https://www.edamam.com/food-img/aeb/aebdd2e72bc13fa8ca762a408b6e58b6.jpg"
+  },
+  "White Wine": {
+    "name": "White Wine Vinegar, White Wine",
+    "calories": 0,
+    "carbohydrates": 0,
+    "fat": 0,
+    "protein": 0,
+    "image": null
+  },
+  "Cornstarch": {
+    "name": "Cornstarch",
+    "calories": "381.00",
+    "carbohydrates": "91.30",
+    "fat": "0.05",
+    "protein": "0.26",
+    "image": "https://www.edamam.com/food-img/f9b/f9b74d9495b40c0aea955c37a1fc39dc.jpg"
+  }
+}
